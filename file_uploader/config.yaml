@@ -1,13 +1,13 @@
 aws:
-  access_key: YOUR_AWS_ACCESS_KEY
-  secret_key: YOUR_AWS_SECRET_KEY
-  bucket_name: YOUR_AWS_BUCKET_NAME
+  access_key: AWS_ACCESS_KEY
+  secret_key: AWS_SECRET_KEY
+  bucket_name: AWS_BUCKET_NAME
 
 gcs:
-  project: YOUR_GCS_PROJECT_ID
-  bucket_name: YOUR_GCS_BUCKET_NAME
-  credentials: path/to/your/credentials.json
+  project: GCS_PROJECT_ID
+  bucket_name: GCS_BUCKET_NAME
+  credentials: credentials/credentials.json
 
 file_types:
   s3: ["jpg", "png", "svg", "webp", "mp3", "mp4", "mpeg4", "wmv", "3gp", "webm"]
-  gcs: ["doc", "docx", "csv", "pdf"]
+  gcs: ["doc", "docx", "csv", "pdf", ]

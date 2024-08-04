@@ -1,0 +1,18 @@
+2024-08-04 10:14:05,887 - INFO - logging has been started
+2024-08-04 10:14:05,928 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: File path/to/your/credentials.json was not found.
+2024-08-04 10:28:19,716 - INFO - logging has been started
+2024-08-04 10:28:19,732 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: ('File credentials/credentials.json is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2024-08-04 10:28:42,412 - INFO - logging has been started
+2024-08-04 10:28:42,417 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: ('File credentials/credentials.json is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2024-08-04 10:29:16,835 - INFO - logging has been started
+2024-08-04 10:29:16,843 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: ('File credentials/credentials.json is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2024-08-04 14:54:22,109 - INFO - logging has been started
+2024-08-04 14:54:22,125 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: ('File credentials/credentials.json is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2024-08-04 14:54:57,296 - INFO - logging has been started
+2024-08-04 14:54:57,296 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: ('File credentials/credentials.json is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2024-08-04 14:56:59,697 - INFO - logging has been started
+2024-08-04 14:56:59,697 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: str expected, not WindowsPath
+2024-08-04 14:57:22,519 - INFO - logging has been started
+2024-08-04 14:57:22,527 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: str expected, not WindowsPath
+2024-08-04 14:57:36,896 - INFO - logging has been started
+2024-08-04 14:57:36,904 - ERROR - Failed to upload D:\file_uploader\test_files\documents\check.txt to GCS: str expected, not WindowsPath
