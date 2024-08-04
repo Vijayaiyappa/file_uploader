@@ -1,0 +1,2 @@
+[console_scripts]
+file-uploader = file_uploader.main:main
