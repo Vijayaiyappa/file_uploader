@@ -22,3 +22,6 @@ This module reads files from a directory and uploads images and media files to A
 Run the module:
 ```bash
 file-uploader
+or
+python -m file_uploader.main
+
